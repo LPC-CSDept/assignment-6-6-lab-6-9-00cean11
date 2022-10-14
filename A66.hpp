@@ -5,9 +5,6 @@
 using namespace std;
 void getinput(int &, int &, int &);
 void maxmin(int, int, int, int &, int &);
-  
-  cout << max << ", " << min << ", " << max - min <<endl;
-}
 void getinput(int &n1, int &n2, int &n3){
     cin >> n1 >> n2 >> n3;
 }
